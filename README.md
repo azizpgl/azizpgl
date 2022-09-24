@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**azizpgl/azizpgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samimhamza/samimhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizpgl&label=Profile%20views&color=0e75b6&style=flat" alt="samimhamza" /> </p>
+
+ <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=azizpgl&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+ <a href="https://github-readme-stats.vercel.app">
+        <img width="41%"  alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizpgl&layout=compact&theme=onedark&hide_border=true"/>
+    </a>
+
+<!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=azizpgl&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=azizpgl&theme=onedark&hide_border=true") -->
