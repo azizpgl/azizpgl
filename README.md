@@ -22,5 +22,7 @@ Here are some ideas to get you started:
  <a href="https://github-readme-stats.vercel.app">
         <img width="41%"  alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizpgl&layout=compact&theme=onedark&hide_border=true"/>
     </a>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=azizpgl&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=azizpgl&theme=onedark&hide_border=true") -->
