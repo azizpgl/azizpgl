@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=azizpgl&theme=onedark&hide_border=true"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
+<!--     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=azizpgl&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight"/>
-    </a>
+    </a> -->
     
 
